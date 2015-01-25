@@ -1,12 +1,12 @@
 {
-    "contents" : "# GettingCleaningDataCourseProject\n\nThis repository hosts the R code and documentation files for the Data Science's track course \"Getting and Cleaning data\", available in coursera.\n\nThe dataset being used is: [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)\n\n## Files\n\nThe code takes for granted all the data is present in the same folder, un-compressed and without names altered.\n\n`CodeBook.md` describes the variables, the data, and any transformations or work that was performed to clean up the data.\n\n`run_analysis.R` contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.\n\nThe output of the 5th step is called `averages_data.txt`, and uploaded in the course project's form.\n",
+    "contents" : "# Getting and Cleaning Data Project\n\nWeichen Ouyang\n\nThis Repo is created for the course project in the Data Science's track course \"Getting and Cleaning data\".\n\n## Project Overview\nThis project serves to demonstrate the process of collecting and processing a raw data set to a tidy data set which can be used for \ndownstream data analysis. Detail description of the data used in this project can be found at [The UCI Machine Learning Repository]\n(http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)\n\n[The raw data for this project can be download from here.](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR\n%20Dataset.zip)\n\n## Files\n\nThe code takes for granted all the data is present in the same folder, un-compressed and without names altered.\n\n`CodeBook.md` describes the variables, the data, and any transformations or work that was performed to clean up the data.\n\n`run_analysis.R` contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing \nthe file.\n\nThe output of the 5th step is called `averages_data.txt`, and uploaded in the course project's form.\n\n\n### Project Summary\nThe following is a summary description of the project instructions\n\nYou should create one R script called run_analysis.R that does the following. \n1. Merges the training and the test sets to create one data set.\n2. Extracts only the measurements on the mean and standard deviation for each measurement. \n3. Uses descriptive activity names to name the activities in the data set\n4. Appropriately labels the data set with descriptive activity names. \n5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. \n",
     "created" : 1422211308385.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3310380639",
+    "hash" : "998479316",
     "id" : "2F5F7F81",
-    "lastKnownWriteTime" : 1422211365,
+    "lastKnownWriteTime" : 1422213220,
     "path" : "C:/Users/luke/Desktop/GettingCleaningData/GettingCleaningDataCourseProject/README.md",
     "project_path" : "README.md",
     "properties" : {
