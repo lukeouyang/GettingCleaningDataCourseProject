@@ -1,0 +1,16 @@
+{
+    "contents" : "# GettingCleaningDataCourseProject\n\nThis repository hosts the R code and documentation files for the Data Science's track course \"Getting and Cleaning data\", available in coursera.\n\nThe dataset being used is: [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)\n\n## Files\n\nThe code takes for granted all the data is present in the same folder, un-compressed and without names altered.\n\n`CodeBook.md` describes the variables, the data, and any transformations or work that was performed to clean up the data.\n\n`run_analysis.R` contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.\n\nThe output of the 5th step is called `averages_data.txt`, and uploaded in the course project's form.\n",
+    "created" : 1422211308385.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3310380639",
+    "id" : "2F5F7F81",
+    "lastKnownWriteTime" : 1422211365,
+    "path" : "C:/Users/luke/Desktop/GettingCleaningData/GettingCleaningDataCourseProject/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "markdown"
+}
